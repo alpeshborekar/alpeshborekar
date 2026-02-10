@@ -23,8 +23,6 @@ const alpesh = {
 - 🔭 Currently building **SkillMatch Platform** — a backend service using Node.js and Express
 - 🌱 Learning backend development, databases (MongoDB & MySQL), and data structures & algorithms
 - 💡 Focused on **clean code, step-by-step progress, and building strong fundamentals**
-- 🎯 Philosophy: *Clarity over shortcuts, quality over speed*
-- 📍 Based in India
 - 🤝 Open to collaboration, learning opportunities, and feedback
 
 ---
