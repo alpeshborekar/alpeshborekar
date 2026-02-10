@@ -6,7 +6,19 @@ I'm a backend developer focused on building reliable, scalable server-side appli
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
+
+```javascript
+const alpesh = {
+    location: "India",
+    role: "Backend Developer",
+    currentFocus: "Building SkillMatch Platform",
+    learning: ["Node.js", "Express.js", "System Design"],
+    interests: ["Backend Architecture", "Data Structures", "API Design"],
+    funFact: "I believe clean code > clever code",
+    lifePhilosophy: "Clarity over shortcuts, quality over speed"
+};
+```
 
 - 🔭 Currently building **SkillMatch Platform** — a backend service using Node.js and Express
 - 🌱 Learning backend development, databases (MongoDB & MySQL), and data structures & algorithms
