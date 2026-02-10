@@ -58,11 +58,11 @@ const alpesh = {
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=alpeshborekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=alpeshborekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alpeshborekar&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alpeshborekar&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpeshborekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpeshborekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
