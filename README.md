@@ -9,7 +9,7 @@ I'm a backend developer focused on building reliable, scalable server-side appli
 ## 🚀 About Me
 
 ```javascript
-let alpesh = {
+var alpesh = {
     location: "India",
     role: "Backend Developer",
     currentFocus: "Building SkillMatch Platform",
