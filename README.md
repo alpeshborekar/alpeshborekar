@@ -130,6 +130,4 @@ A backend platform for structured job evaluation and matching workflows.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a2a,100:0f2027&height=80&section=footer&fontSize=0" width="100%"/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=alpeshborekar&icon=6&color=2)
-
 </div>
